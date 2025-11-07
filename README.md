@@ -12,7 +12,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - ## Demo Video
 
-- <video src="https://github.com/user-attachments/assets/47492344-bc93-4167-b3ef-e0725bdd2ee2" controls width="100%"></video>
+- <video src="https://github.com/user-attachments/assets/47492344-bc93-4167-b3ef-e0725bdd2ee2"></video>
 
 
 
